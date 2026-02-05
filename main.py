@@ -12,7 +12,7 @@ broker = MockBroker(
 )
 
 TOTAL_BUDGET = 10_000_000
-MAX_T = 40
+MAX_T = 2000
 TARGET_YIELD_P = 0.20
 PREV_CLOSE = 62.0
 
